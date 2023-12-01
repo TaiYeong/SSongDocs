@@ -1,9 +1,9 @@
-.. SSongDocs documentation master file, created by
-   sphinx-quickstart on Fri Dec  1 16:20:22 2023.
+.. ssongDocs documentation master file, created by
+   sphinx-quickstart on Fri Dec  1 17:28:03 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SSongDocs's documentation!
+Welcome to ssongDocs's documentation!
 =====================================
 
 .. toctree::
