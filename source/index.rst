@@ -10,7 +10,9 @@ Welcome to ssongDocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+|ImageLink|_
 
+.. |ImageLink| image:: /_static/web_image.jpg
 
 Indices and tables
 ==================
