@@ -13,6 +13,7 @@ Welcome to ssongDocs's documentation!
 |ImageLink|_
 
 .. |ImageLink| image:: /_static/web_image.jpg
+.. _ImageLink: https://giantstep.shotgunstudio.com/projects/
 
 Indices and tables
 ==================
